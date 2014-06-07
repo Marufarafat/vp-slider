@@ -6,15 +6,13 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-VP Slider is simple and easy to use.
-
 == Description ==
 
 VP Slider is simple and easy to use. This slider you can use any page and file. 
 Demo: http://plugin.onjumpstarter.io/?page_id=23
 
 
-== How to use ==
+<strong>Use </strong>
 <strong>Shortcode</strong>
 
 <strong>Simple Slider</strong>
