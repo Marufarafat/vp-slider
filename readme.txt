@@ -12,7 +12,6 @@ VP Slider is simple and easy to use. This slider you can use any page and file.
 Demo: http://plugin.onjumpstarter.io/?page_id=23
 
 
-<strong>Use </strong>
 <strong>Shortcode</strong>
 
 <strong>Simple Slider</strong>
