@@ -1,11 +1,13 @@
 <?php
-
+/**
+ * @package VP Slider
+ */
 /*
- * Plugin Name: VP Slider
-* Plugin URI: https://wordpress.org/plugins/vp-slider/
-* Description: VP Slider is simple lightweight plugin. It is easy to use. This plugin you can use any where via shortcode. 
-* Version: 1.0
-* Author: Maruf Arafat
+Plugin Name: VP Slider
+Plugin URI: https://wordpress.org/plugins/vp-slider/
+Author: Maruf Arafat
+Version: 1.1
+License: GPLv2 or later 
 */
 
 function Virtual_Practices_carosel_slider() {
@@ -142,7 +144,3 @@ add_theme_support( 'post-thumbnails', array( 'vp_iatcs') );
 
 
 add_image_size( 'vp_iatcs_crop_img', 300, 300, true );
-
-
-
-?>
